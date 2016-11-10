@@ -65,7 +65,7 @@ What do you want to use as your public directory? `build/bundled`
 
 Thats all you are done!!
 
-Open your Hosting URL: https://<firebase-app-name>.firebaseapp.com
+Open your Hosting URL: `https://<firebase-app-name>.firebaseapp.com`
 
 
 ---
