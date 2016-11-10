@@ -55,6 +55,8 @@ Before deploy, Open [Fireabase](https://firebase.google.com/) and Create your ow
     firebase init
 
 What Firebase project do you want to associate as default? `<new-app-name> (new-app-73767)`
+
+
 What do you want to use as your public directory? `build/bundled`
 
 
