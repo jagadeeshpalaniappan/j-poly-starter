@@ -48,8 +48,13 @@ For HTTP2 :
 
 ##### 5.Deploy (in Firebase)
 
+Before deploy, Open [Fireabase](https://firebase.google.com/) and Create your own app.
+
+
+    firebase login
     firebase init
 
+What do you want to use as your public directory? `build/bundled`
 What do you want to use as your public directory? `build/bundled`
 
 
